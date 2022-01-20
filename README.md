@@ -5,7 +5,7 @@ on the other hand if you have access to a paid account it is possible to
 find exposed information during your attack surface analysis.
 
 Some basics, is perform a search with the principal domain related with your 
-target, in de VT Hunting module, like:
+target, in  VT Hunting module, like:
 
  --->   *mydomainorganization.com*
 
